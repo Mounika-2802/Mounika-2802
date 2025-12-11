@@ -13,10 +13,7 @@
 ---
 
 ## 🚀 Favorite/Notable Projects
-- **Android Versions and Their Security Vulnerabilities**  
-  Research and analysis of security loopholes in various Android OS versions.
-- **Memory Acquisition Tool for Malware Detection**  
-  Project focused on building and using memory acquisition techniques to enhance malware detection capabilities.
+AI-Powered Phishing Simulation on Cloned UPI Interfaces for Financial Fraud Analysis
 
 ---
 
